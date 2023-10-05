@@ -26,7 +26,7 @@ M.mason = {
     -- lua stuff
     "lua-language-server",
     "stylua",
-
+    "tailwindcss-language-server",
     -- web dev stuff
     "css-lsp",
     "html-lsp",
